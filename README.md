@@ -1,2 +1,2 @@
 # html-porfolio
-Happy Birthday invitatino
+Happy Birthday invitation
